@@ -1,4 +1,4 @@
-# Title
+# Robotics TP 1
 
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
@@ -6,8 +6,4 @@ Source code is under the [src](./src/) folder
 
 ## Usage
 
-Solutions can be run via:
-
-```sh
-runner src/file
-```
+Solution can be loaded as a robot controller in webots.
